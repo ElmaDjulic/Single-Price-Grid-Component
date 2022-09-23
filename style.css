@@ -1,0 +1,71 @@
+body {
+  font-family:'Karla', sans-serif;
+  font-size:1rem;
+}
+
+h1 {
+color:#2ab2af;
+line-height: 2;
+font-weight: 700;}
+
+.firstDiv{
+  padding:30px 3px 30px 50px;
+  font-weight: 700;
+}
+
+.subTitle1 {
+  color:#c0df34;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.subTitle2 {
+  font-weight: 700;
+  line-height: 2;
+}
+
+.prviParagraf {
+  color:	#98a6bd;
+  font-weight: 400;
+  margin-bottom:2px;
+  line-height: 2;
+}
+
+.secondDiv {
+  background-color:	#25a09d;
+  color:#e5eff5;
+    padding:30px 3px 30px 50px;
+}
+
+.thirdDiv {
+  background-color:#2ab2af;
+  color:#e5eff5;
+     padding:30px 3px 30px 50px;
+}
+
+.dugme {
+background-color:#c0df34;
+border-color:#c0df34;
+width:80%;
+padding:12px;
+text-align: center;
+color:#e5eff5;
+margin:10% auto;
+}
+.btn:hover{
+  background-color:#c0df34;
+  border-color:#c0df34;
+}
+
+.drugiParagraf{
+  width:50%;
+}
+
+.spanElement{
+  font-size:2rem;
+}
+
+.list {
+  list-style-type:none;
+  padding:0;
+}
